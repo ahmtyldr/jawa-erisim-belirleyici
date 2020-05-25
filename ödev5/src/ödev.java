@@ -1,4 +1,4 @@
-
+//burada protected olan erişim belirleyici nasıl modifiye edebiliriz onu anlatıyoruz
 public class ödev {
 
  protected int kasa = 123;//burda protected erişim belirleyici kullandık
